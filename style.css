@@ -5,7 +5,9 @@
    body {
     font-family:'Jockey One', Geneva, sans-serif;
     font-size:15px;
-    background-color:#FFF
+    background-image: url(j.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
    }
    header {
     width:100%;
